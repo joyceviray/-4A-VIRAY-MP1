@@ -97,7 +97,7 @@ The image alignment was highly successful, showcasing the effectiveness of featu
 # Results
 ![image](https://github.com/user-attachments/assets/445e928d-3de5-4039-9592-c9321b9c91e8)
 
-#Conclusion 
+# Conclusion 
 
 This project demonstrated the use of feature detection algorithms (SIFT, SURF, and ORB) and their applications in feature matching and image alignment. Each algorithm has its strengths and weaknesses, with SIFT and SURF providing strong features while ORB offers efficiency suitable for real-time applications.
 
